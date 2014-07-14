@@ -1,14 +1,22 @@
 {
   "name": "ilias-api",
   "description": "Promise-driven accessor for the ILIAS API",
-  "version": "0.0.1",
-  "author": "Beardon Services",
+  "version": "0.0.2",
   "keywords": [
     "api",
     "elearn",
     "ilias"
   ],
-  "private": true,
+    "homepage": "https://github.com/beardon/ilias-api",
+    "bugs": {
+      "url": "https://github.com/beardon/ilias-api/issues",
+      "email": "aaron.bean@beardon.com"
+    },
+    "author": {
+      "name": "Aaron Bean",
+      "email": "aaron.bean@beardon.com",
+      "url": "https://github.com/aaronbean"
+    },
   "main": "index.js",
   "dependencies": {
     "bluebird": "~1.2.1",
