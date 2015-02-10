@@ -1,7 +1,7 @@
 {
   "name": "ilias-api",
   "description": "Promise-driven accessor for the ILIAS API",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "api",
     "elearn",
